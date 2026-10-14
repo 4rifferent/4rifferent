@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! 👋 I'm Pertama Ma'arif Nurwahid</h1>
+<h1 align="center">Hello There! I'm Pertama Ma'arif Nurwahid</h1>
 <h3 align="center">A passionate Software & Game Development student from Bandung, Indonesia 🇮🇩</h3>
 
 <p align="center">
