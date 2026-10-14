@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software & Game Development student from Bandung, Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4rifferent&style=flat-square&color=007ACC" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=4rifferent.4rifferent" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/4rifferent?style=flat-square&logo=github&color=007ACC" alt="GitHub Followers" />
 </p>
 
