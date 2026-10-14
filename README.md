@@ -19,8 +19,8 @@
 
 ### 💻 About Me
 - 🏫 **School:** Studying Software and Game Development (PPLG) at **SMKN 4 Bandung**.
-- 🔭 **Focus:** Passionate about building functional desktop/mobile applications and game logic.
-- ⚡ **Fun Fact:** I love experimenting with **C#**, exploring game dev, and learning new tech stacks!
+- 🔭 **Focus:** Passionate about building functional apps, game development logic, and interactive mechanics.
+- ⚡ **Fun Fact:** I love experimenting with **Godot Engine**, exploring **C#**, and learning new tech stacks!
 
 ---
 
@@ -37,8 +37,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**IDEs & Tools**
+**Game Dev & Tools**
 <p>
+  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
